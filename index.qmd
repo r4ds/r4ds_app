@@ -1,11 +1,6 @@
----
-title: "r4ds_app"
----
+## Welcome to the R4DS Online Learning Community!
 
-This is a Quarto website.
+We are actively working on this refreshed website.
+What did you expect to see on the front page?
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+***Please [let us know](https://github.com/r4ds/r4ds_app/issues/7)!***

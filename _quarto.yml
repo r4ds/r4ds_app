@@ -12,8 +12,6 @@ website:
     # logo-alt: "R4DS Online Learning Community"
     # title: false
     right:
-      - href: index.qmd
-        text: Home
       - learn.qmd
       - get_help.qmd
       - projects.qmd

@@ -114,9 +114,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "r4ds_app",
+    "title": "R4DS Online Learning Community",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "We are actively working on this refreshed website. What did you expect to see on the front page?\nPlease let us know!"
+  },
+  {
+    "objectID": "index.html#welcome-to-the-r4ds-online-learning-community",
+    "href": "index.html#welcome-to-the-r4ds-online-learning-community",
+    "title": "R4DS Online Learning Community",
+    "section": "",
+    "text": "We are actively working on this refreshed website. What did you expect to see on the front page?\nPlease let us know!"
   },
   {
     "objectID": "learn.html",

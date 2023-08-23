@@ -3,11 +3,26 @@ project:
 
 website:
   title: "R4DS Online Learning Community"
+  repo-url: https://github.com/r4ds/r4ds_app
+  repo-actions: [edit, issue]
+  google-analytics: "G-QQ1ZV766J5"
   navbar:
-    left:
+    # background: "#f0eeeb"
+    # logo: images/rwds-logo-150px.png
+    # logo-alt: "R4DS Online Learning Community"
+    # title: false
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - learn.qmd
+      - get_help.qmd
+      - projects.qmd
+      - text: About Us
+        menu:
+        - about.qmd
+        - code_of_conduct.qmd
+        - privacy.qmd
+        - license.qmd
 
 format:
   html:

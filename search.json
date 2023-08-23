@@ -53,7 +53,7 @@
     "href": "get_help.html",
     "title": "Get Help",
     "section": "",
-    "text": "(section about asking questions)"
+    "text": "We have volunteers online ready to help you answer your data questions!\nJoin our Slack to ask and answer questions. If the link says it is expired, please let us know!"
   },
   {
     "objectID": "license.html",
@@ -109,7 +109,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "(section about project club and/or our projects)"
+    "text": "Check back soon for information about the R4DS Project Club!\nWe also run the TidyTuesday Social Data Project!"
   },
   {
     "objectID": "index.html",
@@ -130,13 +130,20 @@
     "href": "learn.html",
     "title": "Learn",
     "section": "",
-    "text": "(section about book clubs)"
+    "text": "We believe you learn more when you learn together!\n\nCalendar of current book clubs\nSign up for a new club\n\nRequires a free membership on the R4DS Slack."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Our Story",
     "section": "",
-    "text": "(What we do, history, etc)"
+    "text": "The R4DS Online Learning Community is a community of R learners at all skill levels working together to improve our skills.\nWe launched in August 2017 as a supportive and responsive online space for learners and mentors to gather and work through R for Data Science by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund1.\nThe group has grown from that initial club into a community of over 10,000 learners.\nStay tuned for links to talks we have given about our various projects!"
+  },
+  {
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "Our Story",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThey actually read the first edition by Garrett Grolemund and Hadley Wickham, but we recommend you stick with the more up-to-date 2e!↩︎"
   }
 ]

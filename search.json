@@ -1,10 +1,115 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "code_of_conduct.html",
+    "href": "code_of_conduct.html",
+    "title": "Code of Conduct",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "In the interest of fostering an open and welcoming environment, we as learners, mentors, and administrators pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation."
+  },
+  {
+    "objectID": "code_of_conduct.html#our-pledge",
+    "href": "code_of_conduct.html#our-pledge",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "In the interest of fostering an open and welcoming environment, we as learners, mentors, and administrators pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation."
+  },
+  {
+    "objectID": "code_of_conduct.html#our-standards",
+    "href": "code_of_conduct.html#our-standards",
+    "title": "Code of Conduct",
+    "section": "Our Standards",
+    "text": "Our Standards\nExamples of behavior that contributes to creating a positive environment include:\n\nUsing welcoming and inclusive language\nBeing respectful of differing viewpoints and experiences\nGracefully accepting constructive criticism\nFocusing on what is best for the community\nShowing empathy towards other community members\n\nExamples of unacceptable behavior by participants include:\n\nThe use of sexualized language or imagery and unwelcome sexual attention or advances\nTrolling, insulting/derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or electronic address, without explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting"
+  },
+  {
+    "objectID": "code_of_conduct.html#our-responsibilities",
+    "href": "code_of_conduct.html#our-responsibilities",
+    "title": "Code of Conduct",
+    "section": "Our Responsibilities",
+    "text": "Our Responsibilities\nCommunity administrators are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.\nCommunity administrators have the right and responsibility to remove, edit, or reject comments, questions, answers, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful."
+  },
+  {
+    "objectID": "code_of_conduct.html#scope",
+    "href": "code_of_conduct.html#scope",
+    "title": "Code of Conduct",
+    "section": "Scope",
+    "text": "Scope\nThis Code of Conduct applies both within R4DS Online Learning Community spaces and in public spaces when an individual is representing the community. Examples of representing a community include using an official R4DS Online Learning Community e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of the community may be further defined and clarified by community administrators."
+  },
+  {
+    "objectID": "code_of_conduct.html#enforcement",
+    "href": "code_of_conduct.html#enforcement",
+    "title": "Code of Conduct",
+    "section": "Enforcement",
+    "text": "Enforcement\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the community administrators at rfordatasci@gmail.com. The community administrators will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The community administrators are obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.\nCommunity administrators who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the community’s leadership."
+  },
+  {
+    "objectID": "code_of_conduct.html#attribution",
+    "href": "code_of_conduct.html#attribution",
+    "title": "Code of Conduct",
+    "section": "Attribution",
+    "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at http://contributor-covenant.org/version/1/4"
+  },
+  {
+    "objectID": "get_help.html",
+    "href": "get_help.html",
+    "title": "Get Help",
+    "section": "",
+    "text": "(section about asking questions)"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "Unless otherwise stated, all posts shared on the R4DS Online Learning Community (R4DS) Slack are considered to be licensed under the Creative Commons CC0 license – in other words, people are free to copy/paste your code into their projects with zero impact on the licensing of those projects. Please do not share proprietary information on this Slack.\nR4DS has the right (though not the obligation) to, in R4DS’s sole discretion, (i) refuse or remove any content that, in R4DS’s reasonable opinion, violates any R4DS policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Slack to any individual or entity for any reason, in R4DS’s sole discretion."
+  },
+  {
+    "objectID": "privacy.html",
+    "href": "privacy.html",
+    "title": "Privacy",
+    "section": "",
+    "text": "This notice describes how the R4DS Online Learning Community (R4DS for short) collects and uses data about you."
+  },
+  {
+    "objectID": "privacy.html#what-is-the-r4ds-online-learning-community",
+    "href": "privacy.html#what-is-the-r4ds-online-learning-community",
+    "title": "Privacy",
+    "section": "What is the R4DS Online Learning Community?",
+    "text": "What is the R4DS Online Learning Community?\nR4DS is a community managed by volunteers. The community is primarily adminstered by Jon Harmon. The community is not yet a legal entity.\nThe R4DS Slack is hosted by Slack Technologies. See their privacy policy here."
+  },
+  {
+    "objectID": "privacy.html#how-does-r4ds-collect-data-about-me",
+    "href": "privacy.html#how-does-r4ds-collect-data-about-me",
+    "title": "Privacy",
+    "section": "How does R4DS collect data about me?",
+    "text": "How does R4DS collect data about me?\nR4DS collects data about you:\n\nwhen you browse rfordatasci.com.\nwhen you create and use an account on our Slack team.\nwhen you post, send private messages, answer a thread, or otherwise participate in the R4DS Slack.\nwhen you browse our YouTube channel.\nwhen you participate in an R4DS Online Learning Community project, such as our mentorship pairing program."
+  },
+  {
+    "objectID": "privacy.html#what-does-r4ds-collect-about-me-and-why",
+    "href": "privacy.html#what-does-r4ds-collect-about-me-and-why",
+    "title": "Privacy",
+    "section": "What does R4DS collect about me, and why?",
+    "text": "What does R4DS collect about me, and why?\nWhen you browse rfordatasci.com, we collect Google Analytics data. We use this data to better understand where our users are coming from.\nWhen you create and use an account on our Slack team, we collect an email address and other optional information.\n\nSlack requires this information for account creation.\nIf we need to talk to you about our Code of Conduct, we may contact you via this email address.\nWe do not intentionally share this email address with anyone, but Slack may make it available.\nYou can erase your personal information from your account at any time.\nSlack stores your account data as long as your account remains open.\n\nWhen you post, send private messages, answer a thread, or otherwise participate in the R4DS Slack, you generate content that may be accessible via Slack applications and the Slack API. R4DS uses this data to improve the experience, and may share posts outside of the R4DS Slack (for example, in a blog post or presentation about the mentoring process). All answers shared on the R4DS Slack are considered to be licensed under the Creative Commons CC0 license; people are free to copy/paste your code into their projects with no impact on the licensing of those projects. This data is retained according to Slack’s data retention policies.\nWhen you participate in an R4DS Online Learning Community project, we collect any data necessary for that project, such as a github repo url or demographic data for mentorship matching. We will only share any provided data as described in the terms of that particular project. Unless otherwise specified in the specific project, R4DS does not share data collected for such projects.\nR4DS does not sell or share your data with other companies or services. However, as described above, other services used by R4DS may collect your data, specifically Slack Technologies, Google Analytics, and YouTube."
+  },
+  {
+    "objectID": "privacy.html#how-can-i-contact-r4ds-about-privacy",
+    "href": "privacy.html#how-can-i-contact-r4ds-about-privacy",
+    "title": "Privacy",
+    "section": "How can I contact R4DS about privacy?",
+    "text": "How can I contact R4DS about privacy?\nIf you have any questions about privacy, please contact the Community administrators at rfordatasci@gmail.com."
+  },
+  {
+    "objectID": "privacy.html#when-did-this-privacy-policy-take-effect",
+    "href": "privacy.html#when-did-this-privacy-policy-take-effect",
+    "title": "Privacy",
+    "section": "When did this privacy policy take effect?",
+    "text": "When did this privacy policy take effect?\nThis privacy policy took effect on December 12, 2020."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "(section about project club and/or our projects)"
   },
   {
     "objectID": "index.html",
@@ -12,5 +117,19 @@
     "title": "r4ds_app",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "learn.html",
+    "href": "learn.html",
+    "title": "Learn",
+    "section": "",
+    "text": "(section about book clubs)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Our Story",
+    "section": "",
+    "text": "(What we do, history, etc)"
   }
 ]

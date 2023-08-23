@@ -1,9 +1,5 @@
 ---
-title: "About"
+title: "Our Story"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+(What we do, history, etc)

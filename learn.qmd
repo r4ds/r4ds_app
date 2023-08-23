@@ -2,4 +2,8 @@
 title: "Learn"
 ---
 
-(section about book clubs)
+We believe you learn more when you learn together!
+
+-   [Calendar of current book clubs](https://r4ds.io/events)
+-   [Sign up for a new club](https://r4ds.io/bookclubber)
+    -   Requires a [free membership on the R4DS Slack](https://r4ds.io/join).

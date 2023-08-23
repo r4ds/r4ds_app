@@ -6,12 +6,22 @@ website:
   repo-url: https://github.com/r4ds/r4ds_app
   repo-actions: [edit, issue]
   google-analytics: "G-QQ1ZV766J5"
+  cookie-consent: true
   navbar:
     # background: "#f0eeeb"
     # logo: images/rwds-logo-150px.png
     # logo-alt: "R4DS Online Learning Community"
     # title: false
-    right:
+    tools:
+      - icon: mastodon
+        href: https://fosstodon.org/@R4DSCommunity
+      - icon: linkedin
+        href: https://www.linkedin.com/company/r4ds
+      - icon: youtube
+        href: https://r4ds.io/youtube
+      - icon: github
+        href: https://github.com/r4ds/r4ds_app
+    left:
       - learn.qmd
       - get_help.qmd
       - projects.qmd
@@ -24,6 +34,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      dark: darkly
+      light: flatly
     css: styles.css
-    toc: true
+    toc: false
+    link-external-newwindow: true

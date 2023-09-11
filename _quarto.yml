@@ -31,6 +31,8 @@ website:
         - code_of_conduct.qmd
         - privacy.qmd
         - license.qmd
+        - governance.qmd
+        - sponsor.qmd
 
 format:
   html:

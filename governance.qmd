@@ -1,0 +1,118 @@
+---
+title: "Governance"
+---
+
+<!-- 
+This governance model is adapted from:
+- the nflverse governance model <https://raw.githubusercontent.com/nflverse/nflverse-org/main/GOVERNANCE.md>, which is adapted from:
+- the ggplot2 governance model <https://github.com/tidyverse/ggplot2/blob/main/GOVERNANCE.md>
+- the Benevolent dictator governance model by Ross Gardler and Gabriel Hanganu <http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel>
+- tidyverse tidyups governance notes: <https://github.com/tidyverse/tidyups/blob/main/004-governance.md>
+and is licensed under CC-BY-SA-4.0
+-->
+
+The R4DS Online Learning Community ("R4DS") comprises the [R4DS Slack community](https://r4ds.io/join), and the repositories under the [r4ds GitHub organization](https://github.com/r4ds) and the [rfordatascience Github organization](https://github.com/rfordatascience) (and the packages, websites, and data pipelines that those repositories represent).
+It has a large community of __learners__, __mentors__, and __facilitators__, a team of __administrators__, a __Core Team__, and a __Community Manager__. 
+This document details how the project is governed and what the various responsibilities 
+are for each role in the community.
+
+TLDR: The R4DS Core Team leads the strategy, development, and maintenance of the 
+project and actively welcomes engagement from the community of learners, mentors, and facilitators.
+
+## Learners
+
+People who use the R4DS Slack, participate in R4DS book clubs, use R4DS packages, and participate in TidyTuesday are the most important members of the community.
+Without these learners, this project would have no purpose.
+
+Learners are encouraged to participate in the life of the project and the community as much as possible.
+Learner contributions help ensure that the project is satisfying users' needs. 
+Common learner activities include (but are not limited to):
+
+- Posting about TidyTuesday or other R4DS projects on social media;
+- Asking questions on the R4DS Slack;
+- Participating in R4DS book clubs;
+- Providing moral support (a "thank you" goes a long way).
+
+Learners who continue to engage with the project and its community will often find themselves becoming more and more involved. 
+Such learners may then go on to become mentors and/or facilitators, as described below.
+
+## Mentors
+
+Mentors are learners who answer questions on the R4DS Slack.
+Common mentor activities may include (in addition to those of a learner):
+
+- Answering questions on the R4DS Slack;
+- Helping tag questions on the R4DS Slack with the R4DS emoji vocabulary;
+- Holding semi-official office hours to answer questions in a structured format;
+- Welcoming new users to the R4DS Slack.
+
+Anyone can become a mentor: there is no expectation of commitment to the project, 
+no required skillset, and no selection process. 
+The only obligation is to follow the [code of conduct](code_of_conduct.html).
+Mentors who continue to engage with the product are added to the private #mentors_chat channel for further tips and discussion, but they are under no obligation to continue to answer questions. 
+
+## Facilitators
+
+Facilitators are learners who help organize and run R4DS book clubs.
+Common facilitator activities may include (in addition to those of a learner):
+
+- Introducing new book clubs (and presenting the first chapter);
+- Ensuring that someone is signed up to present each week;
+- Reminding club members about meeting times;
+- Informing administrators of any changes in the book club schedule;
+- Helping to maintain the book club slide repository;
+- Informing administrators of any issues that need to be escalated.
+
+Facilitators must have participated in at least one previous book club, and must have lead the discussion at least once.
+Facilitators are *not* expected to be experts in the book; they are membes of the club just like any other learner.
+
+## Administrators
+
+Administrators help to manage the R4DS Slack and/or GitHub repositories.
+Common administrator activities may include (in addition to those of a learner, mentor, and/or facilitator):
+
+- Approving and merging pull requests;
+- Deleting spam messages;
+- Removing learners who violate the [code of conduct](code_of_conduct.html);
+- Approving or denying Slack app requests.
+
+Currently, all administrators are also members of the Core Team (see below), and are added through the same process.
+
+## Core Team
+
+The Core Team of the R4DS Online Learning Commmunity are:
+* [Tan Ho](https://github.com/tanho63)
+* [Jon Harmon](https://github.com/jonthegeek)
+
+Core Team members are collectively responsible for governance of the R4DS Online Learning Community. Governance activities include:
+
+- Ensuring the long term viability of the R4DS;
+- Deciding on organization-wide policies, procedures, and issues;
+- Dealing with issues related to the [code of conduct](code_of_conduct.html);
+- Approving R4DS expenses;
+- Any other decisions that impact the community as a whole.
+
+Core Team members are recruited from mentors and facilitators. 
+An invitation to join the Core Team can be extended to anyone who has shown interest and aptitude in furthering the goals of the R4DS Online Learning Community.
+Any existing Core Team member can recommend a mentor or facilitator be invited to the Core Team by messaging the Community Manager. 
+The Community Manager will the confirm the invitation with the other Core Team members.
+
+All Core Team members are bound by the [code of conduct](code_of_conduct.html).
+
+## Community Manager
+
+[Jon Harmon](https://github.com/jonthegeek) is the Community Manager.
+
+The Community Manager is a single individual, voted for by the Core Team. 
+Once someone has been appointed Community Manager, they remain in that role until they choose to retire, or the Core Team casts a two-thirds majority vote to remove them.
+
+The Community Manager is responsible for coordinating and facilitating communications within the Core Team and between the Core Team and third parties. 
+Where required and with the Core Team’s consent, the Community Manager may act on behalf of the Core Team and the R4DS Online Learning Community.
+
+The Community Manager has no additional authority over other members of the Core Team: the role is one of coordinator and facilitator. 
+The Community Manager is also expected to ensure that all governance processes are adhered to, and has the deciding vote in the event an action does not receive consensus among the Core Team.
+
+The Community Manager is bound by the [code of conduct](code_of_conduct.html).
+
+# Changelog
+2023-09-11: v1.0

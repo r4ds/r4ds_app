@@ -1,0 +1,8 @@
+---
+title: "Sponsorship"
+---
+
+The R4DS Online Learning Community is a fiscally sponsored collective within the [Open Collective Foundation](https://opencollective.foundation/).
+
+Would you like to support the R4DS Online Learning Community? 
+You can make a tax-deductible donation to help us continue our work through the [Open Collective](https://opencollective.com/r4ds).

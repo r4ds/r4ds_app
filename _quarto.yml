@@ -32,7 +32,7 @@ website:
         - privacy.qmd
         - license.qmd
         - governance.qmd
-        - sponsorship.qmd
+        - sponsor.qmd
 
 format:
   html:

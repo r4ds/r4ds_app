@@ -49,7 +49,7 @@ Common mentor activities may include (in addition to those of a learner):
 Anyone can become a mentor: there is no expectation of commitment to the project, 
 no required skillset, and no selection process. 
 The only obligation is to follow the [code of conduct](code_of_conduct.html).
-Mentors who continue to engage with the product are added to the private #mentors_chat channel for further tips and discussion, but they are under no obligation to continue to answer questions. 
+Mentors who continue to engage with the project are added to the private #mentors_chat channel for further tips and discussion, but they are under no obligation to continue to answer questions. 
 
 ## Facilitators
 
@@ -64,7 +64,7 @@ Common facilitator activities may include (in addition to those of a learner):
 - Informing administrators of any issues that need to be escalated.
 
 Facilitators must have participated in at least one previous book club, and must have lead the discussion at least once.
-Facilitators are *not* expected to be experts in the book; they are membes of the club just like any other learner.
+Facilitators are *not* expected to be experts in the book; they are members of the club just like any other learner.
 
 ## Administrators
 
@@ -81,8 +81,8 @@ Currently, all administrators are also members of the Core Team (see below), and
 ## Core Team
 
 The Core Team of the R4DS Online Learning Commmunity are:
-* [Tan Ho](https://github.com/tanho63)
 * [Jon Harmon](https://github.com/jonthegeek)
+* [Tan Ho](https://github.com/tanho63)
 
 Core Team members are collectively responsible for governance of the R4DS Online Learning Community. Governance activities include:
 

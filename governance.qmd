@@ -96,7 +96,7 @@ Core Team members are collectively responsible for governance of the R4DS Online
 Core Team members are recruited from mentors and facilitators. 
 An invitation to join the Core Team can be extended to anyone who has shown interest and aptitude in furthering the goals of the R4DS Online Learning Community.
 Any existing Core Team member can recommend a mentor or facilitator be invited to the Core Team by messaging the Community Manager. 
-The Community Manager will the confirm the invitation with the other Core Team members.
+The Community Manager will then confirm the invitation with the other Core Team members.
 
 All Core Team members are bound by the [code of conduct](code_of_conduct.html).
 

@@ -80,9 +80,10 @@ Currently, all administrators are also members of the Core Team (see below), and
 
 ## Core Team
 
-The Core Team of the R4DS Online Learning Commmunity are:
-* [Jon Harmon](https://github.com/jonthegeek)
-* [Tan Ho](https://github.com/tanho63)
+The Core Team of the R4DS Online Learning Community are:
+
+- [Jon Harmon](https://github.com/jonthegeek)
+- [Tan Ho](https://github.com/tanho63)
 
 Core Team members are collectively responsible for governance of the R4DS Online Learning Community. Governance activities include:
 

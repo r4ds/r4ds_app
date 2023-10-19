@@ -25,7 +25,10 @@ website:
         href: https://github.com/r4ds/r4ds_app
     left:
       - learn.qmd
-      - get_help.qmd
+      - text: Get Help
+        menu:
+        - slack.qmd
+        - huhu.qmd
       - projects.qmd
       - text: About Us
         menu:

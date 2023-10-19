@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>R4DS Online Learning Community - Projects</title>
+<title>R4DS Online Learning Community - Help Us Help You</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -130,7 +130,7 @@ cookieconsent.run({
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="./projects.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./projects.html" rel="" target="">
  <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -186,7 +186,7 @@ cookieconsent.run({
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Projects</h1>
+<h1 class="title">Help Us Help You</h1>
 </div>
 
 
@@ -201,8 +201,21 @@ cookieconsent.run({
 
 </header>
 
-<p>Check back soon for information about the R4DS Project Club!</p>
-<p>We also run the <a href="https://tidytues.day">TidyTuesday Social Data Project</a>!</p>
+<p>Help us help you!</p>
+<p>Mentors (and other learners) in the R4DS Community will be better equipped to troubleshoot your issue or answer your question if you keep these tips in mind:</p>
+<ol type="1">
+<li>Provide adequate background information: What are you trying to accomplish? What have you already tried? What error messages are you seeing (exactly, not paraphrased)? How is the output not what you’d expect?</li>
+<li>Post the minimal setup needed to expose the problem, if you can. Removing unrelated data and code will help us get to the core of your issue faster. Provide a small illustrative sample data frame and refer to its columns and values in your question.</li>
+<li>Make it runnable, if you can. Others should be able to copy and paste the code you post and run it in their own R session (assuming the right packages are installed, as identified in a <code>library()</code> call in your code). Investigate the <code>reprex</code> package. Use <code>dput</code> to create runnable versions of R objects, or build easy-to-read tibbles with <code>tribble</code>.</li>
+<li>Format for readability, using Slack’s mini-markdown capabilities. Identify embedded snippets of R code by enclosing in single backticks (`). Example: My favorite <code>tidyverse</code> function is <code>mutate</code>. And format chunks of R code by enclosing multiple lines with pairs of triple-backticks (tip: ctrl+Enter puts a newline in your Slack post):</li>
+</ol>
+<pre><code>library(tidyverse)
+tdf &lt;- tribble(
+  ~foo, ~bar,
+  1, 2
+  3, 4
+)</code></pre>
+<p>For more ideas on posting questions/issues effectively, have a look at this <a href="https://community.rstudio.com/t/faq-whats-a-reproducible-example-reprex-and-how-do-i-do-one/5219">Posit Community guide</a>, and the <a href="https://code-review.tidyverse.org/issues/">Issues Appendix from Tidyteam code review principles</a>.</p>
 
 
 
@@ -575,7 +588,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">
       &nbsp;
     </div>   
-    <div class="nav-footer-center"><div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/r4ds/r4ds_app/edit/main/projects.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/r4ds/r4ds_app/issues/new" class="toc-action">Report an issue</a></p></div></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="nav-footer-center"><div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/r4ds/r4ds_app/edit/main/huhu.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/r4ds/r4ds_app/issues/new" class="toc-action">Report an issue</a></p></div></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>

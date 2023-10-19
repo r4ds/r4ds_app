@@ -2,42 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://rfordatasci.com/sponsor.html</loc>
-    <lastmod>2023-10-19T21:37:47.882Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rfordatasci.com/projects.html</loc>
-    <lastmod>2023-10-19T21:37:46.998Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rfordatasci.com/governance.html</loc>
-    <lastmod>2023-10-19T21:37:46.166Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rfordatasci.com/license.html</loc>
-    <lastmod>2023-10-19T21:37:44.978Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rfordatasci.com/privacy.html</loc>
-    <lastmod>2023-10-19T21:37:44.182Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rfordatasci.com/learn.html</loc>
-    <lastmod>2023-10-19T21:37:41.810Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rfordatasci.com/about.html</loc>
-    <lastmod>2023-10-19T21:37:44.586Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rfordatasci.com/code_of_conduct.html</loc>
-    <lastmod>2023-10-19T21:37:45.486Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rfordatasci.com/get_help.html</loc>
-    <lastmod>2023-10-19T21:37:46.590Z</lastmod>
+    <lastmod>2023-10-19T23:15:22.931Z</lastmod>
   </url>
   <url>
     <loc>https://rfordatasci.com/index.html</loc>
-    <lastmod>2023-10-19T21:37:47.442Z</lastmod>
+    <lastmod>2023-10-19T23:15:22.059Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rfordatasci.com/governance.html</loc>
+    <lastmod>2023-10-19T23:15:21.203Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rfordatasci.com/license.html</loc>
+    <lastmod>2023-10-19T23:15:20.007Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rfordatasci.com/slack.html</loc>
+    <lastmod>2023-10-19T23:15:19.111Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rfordatasci.com/learn.html</loc>
+    <lastmod>2023-10-19T23:15:16.335Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rfordatasci.com/privacy.html</loc>
+    <lastmod>2023-10-19T23:15:18.691Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rfordatasci.com/about.html</loc>
+    <lastmod>2023-10-19T23:15:19.543Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rfordatasci.com/code_of_conduct.html</loc>
+    <lastmod>2023-10-19T23:15:20.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rfordatasci.com/projects.html</loc>
+    <lastmod>2023-10-19T23:15:21.603Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rfordatasci.com/huhu.html</loc>
+    <lastmod>2023-10-19T23:15:22.527Z</lastmod>
   </url>
 </urlset>

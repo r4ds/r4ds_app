@@ -7,11 +7,18 @@
     "text": "The R4DS Online Learning Community is a fiscally sponsored collective within the Open Collective Foundation.\nWould you like to support the R4DS Online Learning Community? You can make a tax-deductible donation to help us continue our work through the Open Collective."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "R4DS Online Learning Community",
     "section": "",
-    "text": "Check back soon for information about the R4DS Project Club!\nWe also run the TidyTuesday Social Data Project!"
+    "text": "The R4DS Online Learning Community is a community of learners at all skill levels working together to improve our data-science-related skills.\nJoin our Slack community!\n\n\nWould you like to support the R4DS Online Learning Community? You can make a tax-deductible donation to help us continue our work through the Open Collective."
+  },
+  {
+    "objectID": "index.html#welcome-to-the-r4ds-online-learning-community",
+    "href": "index.html#welcome-to-the-r4ds-online-learning-community",
+    "title": "R4DS Online Learning Community",
+    "section": "",
+    "text": "The R4DS Online Learning Community is a community of learners at all skill levels working together to improve our data-science-related skills.\nJoin our Slack community!\n\n\nWould you like to support the R4DS Online Learning Community? You can make a tax-deductible donation to help us continue our work through the Open Collective."
   },
   {
     "objectID": "governance.html",
@@ -70,6 +77,20 @@
     "text": "Unless otherwise stated, all posts shared on the R4DS Online Learning Community (R4DS) Slack are considered to be licensed under the Creative Commons CC0 license – in other words, people are free to copy/paste your code into their projects with zero impact on the licensing of those projects. Please do not share proprietary information on this Slack.\nR4DS has the right (though not the obligation) to, in R4DS’s sole discretion, (i) refuse or remove any content that, in R4DS’s reasonable opinion, violates any R4DS policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Slack to any individual or entity for any reason, in R4DS’s sole discretion."
   },
   {
+    "objectID": "slack.html",
+    "href": "slack.html",
+    "title": "Join our Slack",
+    "section": "",
+    "text": "We have volunteers online ready to help you answer your data questions!\nJoin our Slack to ask and answer questions. If the link says it is expired, please let us know!"
+  },
+  {
+    "objectID": "learn.html",
+    "href": "learn.html",
+    "title": "Learn",
+    "section": "",
+    "text": "We believe you learn more when you learn together!\n\nCalendar of current book clubs\nSign up for a new club\n\nRequires a free membership on the R4DS Slack."
+  },
+  {
     "objectID": "privacy.html",
     "href": "privacy.html",
     "title": "Privacy",
@@ -110,13 +131,6 @@
     "title": "Privacy",
     "section": "When did this privacy policy take effect?",
     "text": "When did this privacy policy take effect?\nThis privacy policy took effect on December 12, 2020."
-  },
-  {
-    "objectID": "learn.html",
-    "href": "learn.html",
-    "title": "Learn",
-    "section": "",
-    "text": "We believe you learn more when you learn together!\n\nCalendar of current book clubs\nSign up for a new club\n\nRequires a free membership on the R4DS Slack."
   },
   {
     "objectID": "about.html",
@@ -182,24 +196,17 @@
     "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at http://contributor-covenant.org/version/1/4"
   },
   {
-    "objectID": "get_help.html",
-    "href": "get_help.html",
-    "title": "Get Help",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "We have volunteers online ready to help you answer your data questions!\nJoin our Slack to ask and answer questions. If the link says it is expired, please let us know!"
+    "text": "Check back soon for information about the R4DS Project Club!\nWe also run the TidyTuesday Social Data Project!"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "R4DS Online Learning Community",
+    "objectID": "huhu.html",
+    "href": "huhu.html",
+    "title": "Help Us Help You",
     "section": "",
-    "text": "The R4DS Online Learning Community is a community of learners at all skill levels working together to improve our data-science-related skills.\nJoin our Slack community!\n\n\nWould you like to support the R4DS Online Learning Community? You can make a tax-deductible donation to help us continue our work through the Open Collective."
-  },
-  {
-    "objectID": "index.html#welcome-to-the-r4ds-online-learning-community",
-    "href": "index.html#welcome-to-the-r4ds-online-learning-community",
-    "title": "R4DS Online Learning Community",
-    "section": "",
-    "text": "The R4DS Online Learning Community is a community of learners at all skill levels working together to improve our data-science-related skills.\nJoin our Slack community!\n\n\nWould you like to support the R4DS Online Learning Community? You can make a tax-deductible donation to help us continue our work through the Open Collective."
+    "text": "Help us help you!\nMentors (and other learners) in the R4DS Community will be better equipped to troubleshoot your issue or answer your question if you keep these tips in mind:\n\nProvide adequate background information: What are you trying to accomplish? What have you already tried? What error messages are you seeing (exactly, not paraphrased)? How is the output not what you’d expect?\nPost the minimal setup needed to expose the problem, if you can. Removing unrelated data and code will help us get to the core of your issue faster. Provide a small illustrative sample data frame and refer to its columns and values in your question.\nMake it runnable, if you can. Others should be able to copy and paste the code you post and run it in their own R session (assuming the right packages are installed, as identified in a library() call in your code). Investigate the reprex package. Use dput to create runnable versions of R objects, or build easy-to-read tibbles with tribble.\nFormat for readability, using Slack’s mini-markdown capabilities. Identify embedded snippets of R code by enclosing in single backticks (`). Example: My favorite tidyverse function is mutate. And format chunks of R code by enclosing multiple lines with pairs of triple-backticks (tip: ctrl+Enter puts a newline in your Slack post):\n\nlibrary(tidyverse)\ntdf &lt;- tribble(\n  ~foo, ~bar,\n  1, 2\n  3, 4\n)\nFor more ideas on posting questions/issues effectively, have a look at this Posit Community guide, and the Issues Appendix from Tidyteam code review principles."
   }
 ]

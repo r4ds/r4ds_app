@@ -16,7 +16,7 @@ It has a large community of __learners__, __mentors__, and __facilitators__, a t
 This document details how the project is governed and what the various responsibilities 
 are for each role in the community.
 
-TLDR: The R4DS Core Team leads the strategy, development, and maintenance of the 
+TLDR: The R4DS Core Team (led by the Community Manager) leads the strategy, development, and maintenance of the 
 project and actively welcomes engagement from the community of learners, mentors, and facilitators.
 
 ## Learners
@@ -84,6 +84,7 @@ The Core Team of the R4DS Online Learning Community are:
 
 - [Jon Harmon](https://github.com/jonthegeek)
 - [Tan Ho](https://github.com/tanho63)
+- [Lydia Gibson](https://github.com/lgibson7)
 
 Core Team members are collectively responsible for governance of the R4DS Online Learning Community. Governance activities include:
 
@@ -96,15 +97,18 @@ Core Team members are collectively responsible for governance of the R4DS Online
 Core Team members are recruited from mentors and facilitators. 
 An invitation to join the Core Team can be extended to anyone who has shown interest and aptitude in furthering the goals of the R4DS Online Learning Community.
 Any existing Core Team member can recommend a mentor or facilitator be invited to the Core Team by messaging the Community Manager. 
-The Community Manager will then confirm the invitation with the other Core Team members.
+If the Community Manager approves of the nomination, they will put the member forward to the rest of the Core Team for a simple-majority vote.
 
 All Core Team members are bound by the [code of conduct](code_of_conduct.html).
+
+If a member of the Core Team no longer wishes to be a member of the Core Team, they may retire from the Core Team by informing the Community Manager.
+If a member of the Core Team becomes inactive or no longer reflects the values of the Community, they may be removed from the Core Team by a two-thirds majority vote of the Core Team members.
 
 ## Community Manager
 
 [Jon Harmon](https://github.com/jonthegeek) is the Community Manager.
 
-The Community Manager is a single individual, voted for by the Core Team. 
+The Community Manager is a single individual, elected by the Core Team. 
 Once someone has been appointed Community Manager, they remain in that role until they choose to retire, or the Core Team casts a two-thirds majority vote to remove them.
 
 The Community Manager is responsible for coordinating and facilitating communications within the Core Team and between the Core Team and third parties. 
@@ -117,3 +121,4 @@ The Community Manager is bound by the [code of conduct](code_of_conduct.html).
 
 # Changelog
 2023-09-11: v1.0
+2023-09-29: v1.0.1 - Added Lydia Gibson to Core Team and clarified election and removal of Core Team members.

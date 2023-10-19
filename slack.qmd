@@ -1,5 +1,5 @@
 ---
-title: "Get Help"
+title: "Join our Slack"
 ---
 
 We have volunteers online ready to help you answer your data questions!

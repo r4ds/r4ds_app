@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/r4ds/r4ds_app/governance.html</loc>
-    <lastmod>2023-09-18T17:08:45.851Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/r4ds/r4ds_app/license.html</loc>
-    <lastmod>2023-09-18T17:08:44.935Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/r4ds/r4ds_app/code_of_conduct.html</loc>
-    <lastmod>2023-09-18T17:08:44.211Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/r4ds/r4ds_app/privacy.html</loc>
-    <lastmod>2023-09-18T17:08:43.387Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/r4ds/r4ds_app/about.html</loc>
-    <lastmod>2023-09-18T17:08:42.555Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/r4ds/r4ds_app/index.html</loc>
-    <lastmod>2023-09-18T17:08:40.339Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/r4ds/r4ds_app/learn.html</loc>
-    <lastmod>2023-09-18T17:08:42.919Z</lastmod>
-  </url>
-  <url>
     <loc>https://github.com/r4ds/r4ds_app/sponsor.html</loc>
-    <lastmod>2023-09-18T17:08:43.739Z</lastmod>
+    <lastmod>2023-10-19T21:21:47.069Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/r4ds/r4ds_app/projects.html</loc>
-    <lastmod>2023-09-18T17:08:44.567Z</lastmod>
+    <lastmod>2023-10-19T21:21:46.213Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/r4ds/r4ds_app/governance.html</loc>
+    <lastmod>2023-10-19T21:21:45.317Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/r4ds/r4ds_app/license.html</loc>
+    <lastmod>2023-10-19T21:21:44.097Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/r4ds/r4ds_app/privacy.html</loc>
+    <lastmod>2023-10-19T21:21:43.165Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/r4ds/r4ds_app/learn.html</loc>
+    <lastmod>2023-10-19T21:21:41.509Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/r4ds/r4ds_app/about.html</loc>
+    <lastmod>2023-10-19T21:21:43.653Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/r4ds/r4ds_app/code_of_conduct.html</loc>
+    <lastmod>2023-10-19T21:21:44.633Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/r4ds/r4ds_app/get_help.html</loc>
-    <lastmod>2023-09-18T17:08:45.299Z</lastmod>
+    <lastmod>2023-10-19T21:21:45.785Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/r4ds/r4ds_app/index.html</loc>
+    <lastmod>2023-10-19T21:21:46.653Z</lastmod>
   </url>
 </urlset>

@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - CNAME
 
 website:
   title: "R4DS Online Learning Community"
@@ -9,7 +11,7 @@ website:
   cookie-consent: true
   navbar:
     # background: "#f0eeeb"
-    # logo: images/rwds-logo-150px.png
+    # logo: images/r4ds-logo-150px.png
     # logo-alt: "R4DS Online Learning Community"
     # title: false
     tools:

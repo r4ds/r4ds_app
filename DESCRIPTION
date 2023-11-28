@@ -1,3 +1,4 @@
+Type: Book
 Package: r4dsapp
 Title: The R4DS Online Learning Community
 Version: 0.0.0.9000
@@ -7,11 +8,11 @@ Authors@R: c(
     person("R4DS Online Learning Community", , , "rfordatasci@gmail.com", role = "ctb")
   )
 Description: This is only here for GHA dependencies.
-Depends:
-    R (>= 3.1.0)
-Encoding: UTF-8
 URL: https://github.com/r4ds/r4ds_app
 BugReports: https://github.com/r4ds/r4ds_app/issues
+Depends:
+    R (>= 3.1.0)
 Suggests: 
     knitr,
     rmarkdown
+Encoding: UTF-8

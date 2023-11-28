@@ -30,6 +30,7 @@ website:
         - slack.qmd
         - huhu.qmd
       - projects.qmd
+      - donate.qmd
       - text: About Us
         menu:
         - about.qmd

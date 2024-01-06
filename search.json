@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "slack.html",
-    "href": "slack.html",
-    "title": "Join our Slack",
+    "objectID": "question_answering.html",
+    "href": "question_answering.html",
+    "title": "Get Help",
     "section": "",
-    "text": "We have volunteers online ready to help you answer your data questions!\nJoin our Slack to ask and answer questions. If the link says it is expired, please let us know!"
+    "text": "We have volunteers online ready to help you answer your data questions!\nJoin our Slack to ask and answer questions (if the join link says it is expired, please let us know)."
+  },
+  {
+    "objectID": "question_answering.html#available-help-channels",
+    "href": "question_answering.html#available-help-channels",
+    "title": "Get Help",
+    "section": "Available help channels:",
+    "text": "Available help channels:\n\n\n\nR help\n\nR (general questions)\nData Import\nDataviz, Plotting, Etc\n\n\n\n\nOther topics\n\nPython (general questions)\nSQL (general questions)\nStatistics\n\n\n\n\n(more topics are available and will be listed here soon)"
   },
   {
     "objectID": "code_of_conduct.html",
@@ -56,116 +63,11 @@
     "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at http://contributor-covenant.org/version/1/4"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Our Story",
-    "section": "",
-    "text": "The R4DS Online Learning Community is a community of R learners at all skill levels working together to improve our skills.\nWe launched in August 2017 as a supportive and responsive online space for learners and mentors to gather and work through R for Data Science by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund1.\nThe group has grown from that initial club into a community of over 10,000 learners.\nStay tuned for links to talks we have given about our various projects!"
-  },
-  {
-    "objectID": "about.html#footnotes",
-    "href": "about.html#footnotes",
-    "title": "Our Story",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThey actually read the first edition by Garrett Grolemund and Hadley Wickham, but we recommend you stick with the more up-to-date 2e!↩︎"
-  },
-  {
-    "objectID": "huhu.html",
-    "href": "huhu.html",
-    "title": "Help Us Help You",
-    "section": "",
-    "text": "Help us help you!\nMentors (and other learners) in the R4DS Community will be better equipped to troubleshoot your issue or answer your question if you keep these tips in mind:\n\nProvide adequate background information: What are you trying to accomplish? What have you already tried? What error messages are you seeing (exactly, not paraphrased)? How is the output not what you’d expect?\nPost the minimal setup needed to expose the problem, if you can. Removing unrelated data and code will help us get to the core of your issue faster. Provide a small illustrative sample data frame and refer to its columns and values in your question.\nMake it runnable, if you can. Others should be able to copy and paste the code you post and run it in their own R session (assuming the right packages are installed, as identified in a library() call in your code). Investigate the reprex package. Use dput to create runnable versions of R objects, or build easy-to-read tibbles with tribble.\nFormat for readability, using Slack’s mini-markdown capabilities. Identify embedded snippets of R code by enclosing in single backticks (`). Example: My favorite tidyverse function is mutate. And format chunks of R code by enclosing multiple lines with pairs of triple-backticks (tip: ctrl+Enter puts a newline in your Slack post):\n\nlibrary(tidyverse)\ntdf &lt;- tribble(\n  ~foo, ~bar,\n  1, 2\n  3, 4\n)\nFor more ideas on posting questions/issues effectively, have a look at this Posit Community guide, and the Issues Appendix from Tidyteam code review principles."
-  },
-  {
-    "objectID": "sponsor.html",
-    "href": "sponsor.html",
-    "title": "Sponsorship",
-    "section": "",
-    "text": "The R4DS Online Learning Community is a fiscally sponsored collective within the Open Collective Foundation.\nWould you like to support the R4DS Online Learning Community? You can make a tax-deductible donation to help us continue our work through the Open Collective."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "R4DS Online Learning Community",
-    "section": "",
-    "text": "The R4DS Online Learning Community is a community of learners at all skill levels working together to improve our data-science-related skills.\nJoin our Slack community!\n\n\nWould you like to support the R4DS Online Learning Community? You can make a tax-deductible donation to help us continue our work through the Open Collective."
-  },
-  {
-    "objectID": "index.html#welcome-to-the-r4ds-online-learning-community",
-    "href": "index.html#welcome-to-the-r4ds-online-learning-community",
-    "title": "R4DS Online Learning Community",
-    "section": "",
-    "text": "The R4DS Online Learning Community is a community of learners at all skill levels working together to improve our data-science-related skills.\nJoin our Slack community!\n\n\nWould you like to support the R4DS Online Learning Community? You can make a tax-deductible donation to help us continue our work through the Open Collective."
-  },
-  {
     "objectID": "donate.html",
     "href": "donate.html",
     "title": "Donate",
     "section": "",
-    "text": "If we’ve helped you learn, please consider a tax-deductible donation to help us continue our work ."
-  },
-  {
-    "objectID": "donate.html#giving-season-2023",
-    "href": "donate.html#giving-season-2023",
-    "title": "Donate",
-    "section": "Giving Season 2023",
-    "text": "Giving Season 2023\nWe have a number of projects in the works, and we’d like your help choosing where to focus our efforts in 2024! Every dollar donated through the end of 2023 can be used to vote for your favorite project. Make your gift recurring to double your vote!\n\nProjects:\n\nMentoring Improvements\nWe provide free data-question-answering on our Slack team via volunteer mentors.\nWe would like to make it easier for our mentors to answer questions by providing a streamlined web interface, and by matching new questions with previously answered questions. This project will allow us to answer more questions faster.\n\n\nMore-open Book Clubs\nWe host book clubs for a wide range of data-related books, including R for Data Science, Python for Data Analysis, and R Packages. To join a book club, you must join our Slack team, and follow the associated channel.\nWe would like to open up our clubs to users who are not on our Slack. This project will require software development to integrate our club management with additional login providers (such as Zoom, Google, GitHub, LinkedIn, and/or Mastodon), and to ensure that our meetings do not get spammed.\n\n\nTidyTuesday Dataset Search\nWe host a weekly social data project called TidyTuesday, where we share a new dataset each week and invite the data science community to explore it. We have been posting new datasets every week since April of 2018, and we now have about 600 datasets available for download.\nWe would like to make it easier to search those datasets. To do so, we will refactor the TidyTuesday GitHub repository, extend the {ttmeta} package, and build a Shiny search interface.\n\n\n\nFine Print\n\nWe may not receive enough funding to complete any of the projects.\nYour vote will help us prioritize the project list, but other priorities may arise that require our immediate attention."
-  },
-  {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
-    "section": "",
-    "text": "Unless otherwise stated, all posts shared on the R4DS Online Learning Community (R4DS) Slack are considered to be licensed under the Creative Commons CC0 license – in other words, people are free to copy/paste your code into their projects with zero impact on the licensing of those projects. Please do not share proprietary information on this Slack.\nR4DS has the right (though not the obligation) to, in R4DS’s sole discretion, (i) refuse or remove any content that, in R4DS’s reasonable opinion, violates any R4DS policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Slack to any individual or entity for any reason, in R4DS’s sole discretion."
-  },
-  {
-    "objectID": "learn.html",
-    "href": "learn.html",
-    "title": "Learn",
-    "section": "",
-    "text": "We believe you learn more when you learn together!\n\nCalendar of current book clubs\nSign up for a new club\n\nRequires a free membership on the R4DS Slack."
-  },
-  {
-    "objectID": "privacy.html",
-    "href": "privacy.html",
-    "title": "Privacy",
-    "section": "",
-    "text": "This notice describes how the R4DS Online Learning Community (R4DS for short) collects and uses data about you."
-  },
-  {
-    "objectID": "privacy.html#what-is-the-r4ds-online-learning-community",
-    "href": "privacy.html#what-is-the-r4ds-online-learning-community",
-    "title": "Privacy",
-    "section": "What is the R4DS Online Learning Community?",
-    "text": "What is the R4DS Online Learning Community?\nR4DS is a community managed by volunteers. The community is primarily adminstered by Jon Harmon. The community is not yet a legal entity.\nThe R4DS Slack is hosted by Slack Technologies. See their privacy policy here."
-  },
-  {
-    "objectID": "privacy.html#how-does-r4ds-collect-data-about-me",
-    "href": "privacy.html#how-does-r4ds-collect-data-about-me",
-    "title": "Privacy",
-    "section": "How does R4DS collect data about me?",
-    "text": "How does R4DS collect data about me?\nR4DS collects data about you:\n\nwhen you browse rfordatasci.com.\nwhen you create and use an account on our Slack team.\nwhen you post, send private messages, answer a thread, or otherwise participate in the R4DS Slack.\nwhen you browse our YouTube channel.\nwhen you participate in an R4DS Online Learning Community project, such as our mentorship pairing program."
-  },
-  {
-    "objectID": "privacy.html#what-does-r4ds-collect-about-me-and-why",
-    "href": "privacy.html#what-does-r4ds-collect-about-me-and-why",
-    "title": "Privacy",
-    "section": "What does R4DS collect about me, and why?",
-    "text": "What does R4DS collect about me, and why?\nWhen you browse rfordatasci.com, we collect Google Analytics data. We use this data to better understand where our users are coming from.\nWhen you create and use an account on our Slack team, we collect an email address and other optional information.\n\nSlack requires this information for account creation.\nIf we need to talk to you about our Code of Conduct, we may contact you via this email address.\nWe do not intentionally share this email address with anyone, but Slack may make it available.\nYou can erase your personal information from your account at any time.\nSlack stores your account data as long as your account remains open.\n\nWhen you post, send private messages, answer a thread, or otherwise participate in the R4DS Slack, you generate content that may be accessible via Slack applications and the Slack API. R4DS uses this data to improve the experience, and may share posts outside of the R4DS Slack (for example, in a blog post or presentation about the mentoring process). All answers shared on the R4DS Slack are considered to be licensed under the Creative Commons CC0 license; people are free to copy/paste your code into their projects with no impact on the licensing of those projects. This data is retained according to Slack’s data retention policies.\nWhen you participate in an R4DS Online Learning Community project, we collect any data necessary for that project, such as a github repo url or demographic data for mentorship matching. We will only share any provided data as described in the terms of that particular project. Unless otherwise specified in the specific project, R4DS does not share data collected for such projects.\nR4DS does not sell or share your data with other companies or services. However, as described above, other services used by R4DS may collect your data, specifically Slack Technologies, Google Analytics, and YouTube."
-  },
-  {
-    "objectID": "privacy.html#how-can-i-contact-r4ds-about-privacy",
-    "href": "privacy.html#how-can-i-contact-r4ds-about-privacy",
-    "title": "Privacy",
-    "section": "How can I contact R4DS about privacy?",
-    "text": "How can I contact R4DS about privacy?\nIf you have any questions about privacy, please contact the Community administrators at rfordatasci@gmail.com."
-  },
-  {
-    "objectID": "privacy.html#when-did-this-privacy-policy-take-effect",
-    "href": "privacy.html#when-did-this-privacy-policy-take-effect",
-    "title": "Privacy",
-    "section": "When did this privacy policy take effect?",
-    "text": "When did this privacy policy take effect?\nThis privacy policy took effect on December 12, 2020."
+    "text": "The R4DS Online Learning Community is a fiscally sponsored collective within the Open Collective Foundation.\nWould you like to support the R4DS Online Learning Community? You can make a tax-deductible donation to help us continue our work through the Open Collective."
   },
   {
     "objectID": "governance.html",
@@ -217,10 +119,122 @@
     "text": "Community Manager\nJon Harmon is the Community Manager.\nThe Community Manager is a single individual, elected by the Core Team. Once someone has been appointed Community Manager, they remain in that role until they choose to retire, or the Core Team casts a two-thirds majority vote to remove them.\nThe Community Manager is responsible for coordinating and facilitating communications within the Core Team and between the Core Team and third parties. Where required and with the Core Team’s consent, the Community Manager may act on behalf of the Core Team and the R4DS Online Learning Community.\nThe Community Manager has no additional authority over other members of the Core Team: the role is one of coordinator and facilitator. The Community Manager is also expected to ensure that all governance processes are adhered to, and has the deciding vote in the event an action does not receive consensus among the Core Team.\nThe Community Manager is bound by the code of conduct."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "huhu.html",
+    "href": "huhu.html",
+    "title": "Help Us Help You",
     "section": "",
-    "text": "Check back soon for information about the R4DS Project Club!\nWe also run the TidyTuesday Social Data Project!"
+    "text": "Help us help you!\nMentors (and other learners) in the R4DS Community will be better equipped to troubleshoot your issue or answer your question if you keep these tips in mind:\n\nProvide adequate background information: What are you trying to accomplish? What have you already tried? What error messages are you seeing (exactly, not paraphrased)? How is the output not what you’d expect?\nPost the minimal setup needed to expose the problem, if you can. Removing unrelated data and code will help us get to the core of your issue faster. Provide a small illustrative sample data frame and refer to its columns and values in your question.\nMake it runnable, if you can. Others should be able to copy and paste the code you post and run it in their own R session (assuming the right packages are installed, as identified in a library() call in your code). Investigate the reprex package. Use dput to create runnable versions of R objects, or build easy-to-read tibbles with tribble.\nFormat for readability, using Slack’s mini-markdown capabilities. Identify embedded snippets of R code by enclosing in single backticks (`). Example: My favorite tidyverse function is mutate. And format chunks of R code by enclosing multiple lines with pairs of triple-backticks (tip: ctrl+Enter puts a newline in your Slack post):\n\nlibrary(tidyverse)\ntdf &lt;- tribble(\n  ~foo, ~bar,\n  1, 2\n  3, 4\n)\nFor more ideas on posting questions/issues effectively, have a look at this Posit Community guide, and the Issues Appendix from Tidyteam code review principles."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Our Story",
+    "section": "",
+    "text": "The R4DS Online Learning Community is a community of R learners at all skill levels working together to improve our skills.\nWe launched in August 2017 as a supportive and responsive online space for learners and mentors to gather and work through R for Data Science by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund1.\nThe group has grown from that initial club into a community of over 10,000 learners.\nStay tuned for links to talks we have given about our various projects!"
+  },
+  {
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "Our Story",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThey actually read the first edition by Garrett Grolemund and Hadley Wickham, but we recommend you stick with the more up-to-date 2e!↩︎"
+  },
+  {
+    "objectID": "bookclubs.html",
+    "href": "bookclubs.html",
+    "title": "Book Clubs",
+    "section": "",
+    "text": "We believe you learn more when you learn together!\n\nCalendar of current book clubs\nSign up for a new club\n\nRequires a free membership on our Slack."
+  },
+  {
+    "objectID": "privacy.html",
+    "href": "privacy.html",
+    "title": "Privacy",
+    "section": "",
+    "text": "This notice describes how the R4DS Online Learning Community (R4DS for short) collects and uses data about you."
+  },
+  {
+    "objectID": "privacy.html#what-is-the-r4ds-online-learning-community",
+    "href": "privacy.html#what-is-the-r4ds-online-learning-community",
+    "title": "Privacy",
+    "section": "What is the R4DS Online Learning Community?",
+    "text": "What is the R4DS Online Learning Community?\nR4DS is a community managed by volunteers. The community is primarily adminstered by Jon Harmon. The community is not yet a legal entity.\nThe R4DS Slack is hosted by Slack Technologies. See their privacy policy here."
+  },
+  {
+    "objectID": "privacy.html#how-does-r4ds-collect-data-about-me",
+    "href": "privacy.html#how-does-r4ds-collect-data-about-me",
+    "title": "Privacy",
+    "section": "How does R4DS collect data about me?",
+    "text": "How does R4DS collect data about me?\nR4DS collects data about you:\n\nwhen you browse rfordatasci.com.\nwhen you create and use an account on our Slack team.\nwhen you post, send private messages, answer a thread, or otherwise participate in the R4DS Slack.\nwhen you browse our YouTube channel.\nwhen you participate in an R4DS Online Learning Community project, such as our mentorship pairing program."
+  },
+  {
+    "objectID": "privacy.html#what-does-r4ds-collect-about-me-and-why",
+    "href": "privacy.html#what-does-r4ds-collect-about-me-and-why",
+    "title": "Privacy",
+    "section": "What does R4DS collect about me, and why?",
+    "text": "What does R4DS collect about me, and why?\nWhen you browse rfordatasci.com, we collect Google Analytics data. We use this data to better understand where our users are coming from.\nWhen you create and use an account on our Slack team, we collect an email address and other optional information.\n\nSlack requires this information for account creation.\nIf we need to talk to you about our Code of Conduct, we may contact you via this email address.\nWe do not intentionally share this email address with anyone, but Slack may make it available.\nYou can erase your personal information from your account at any time.\nSlack stores your account data as long as your account remains open.\n\nWhen you post, send private messages, answer a thread, or otherwise participate in the R4DS Slack, you generate content that may be accessible via Slack applications and the Slack API. R4DS uses this data to improve the experience, and may share posts outside of the R4DS Slack (for example, in a blog post or presentation about the mentoring process). All answers shared on the R4DS Slack are considered to be licensed under the Creative Commons CC0 license; people are free to copy/paste your code into their projects with no impact on the licensing of those projects. This data is retained according to Slack’s data retention policies.\nWhen you participate in an R4DS Online Learning Community project, we collect any data necessary for that project, such as a github repo url or demographic data for mentorship matching. We will only share any provided data as described in the terms of that particular project. Unless otherwise specified in the specific project, R4DS does not share data collected for such projects.\nR4DS does not sell or share your data with other companies or services. However, as described above, other services used by R4DS may collect your data, specifically Slack Technologies, Google Analytics, and YouTube."
+  },
+  {
+    "objectID": "privacy.html#how-can-i-contact-r4ds-about-privacy",
+    "href": "privacy.html#how-can-i-contact-r4ds-about-privacy",
+    "title": "Privacy",
+    "section": "How can I contact R4DS about privacy?",
+    "text": "How can I contact R4DS about privacy?\nIf you have any questions about privacy, please contact the Community administrators at rfordatasci@gmail.com."
+  },
+  {
+    "objectID": "privacy.html#when-did-this-privacy-policy-take-effect",
+    "href": "privacy.html#when-did-this-privacy-policy-take-effect",
+    "title": "Privacy",
+    "section": "When did this privacy policy take effect?",
+    "text": "When did this privacy policy take effect?\nThis privacy policy took effect on December 12, 2020."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Science Learning Community",
+    "section": "",
+    "text": "Data Science Learning Community\nA diverse, friendly, and inclusive community of learners building our skills in data science.\n\nJoin us on Slack"
+  },
+  {
+    "objectID": "our_projects.html",
+    "href": "our_projects.html",
+    "title": "Our Projects",
+    "section": "",
+    "text": "We have a number of projects in the works to improve our offerings. Your donations can help us hire developers to work on these projects."
+  },
+  {
+    "objectID": "our_projects.html#mentoring-improvements",
+    "href": "our_projects.html#mentoring-improvements",
+    "title": "Our Projects",
+    "section": "Mentoring Improvements",
+    "text": "Mentoring Improvements\nWe provide free data-question-answering on our Slack team via volunteer mentors.\nWe would like to make it easier for our mentors to answer questions by providing a streamlined web interface, and by matching new questions with previously answered questions. This project will allow us to answer more questions faster."
+  },
+  {
+    "objectID": "our_projects.html#more-open-book-clubs",
+    "href": "our_projects.html#more-open-book-clubs",
+    "title": "Our Projects",
+    "section": "More-open Book Clubs",
+    "text": "More-open Book Clubs\nWe host book clubs for a wide range of data-related books, including R for Data Science, Python for Data Analysis, and R Packages. To join a book club, you must join our Slack team, and follow the associated channel.\nWe would like to open up our clubs to users who are not on our Slack. This project will require software development to integrate our club management with additional login providers (such as Zoom, Google, GitHub, LinkedIn, and/or Mastodon), and to ensure that our meetings do not get spammed."
+  },
+  {
+    "objectID": "our_projects.html#tidytuesday-dataset-search",
+    "href": "our_projects.html#tidytuesday-dataset-search",
+    "title": "Our Projects",
+    "section": "TidyTuesday Dataset Search",
+    "text": "TidyTuesday Dataset Search\nWe host a weekly social data project called TidyTuesday, where we share a new dataset each week and invite the data science community to explore it. We have been posting new datasets every week since April of 2018, and we now have about 600 datasets available for download.\nWe would like to make it easier to search those datasets. To do so, we will refactor the TidyTuesday GitHub repository, extend the {ttmeta} package, and build a Shiny search interface."
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "Unless otherwise stated, all posts shared on the R4DS Online Learning Community (R4DS) Slack are considered to be licensed under the Creative Commons CC0 license – in other words, people are free to copy/paste your code into their projects with zero impact on the licensing of those projects. Please do not share proprietary information on this Slack.\nR4DS has the right (though not the obligation) to, in R4DS’s sole discretion, (i) refuse or remove any content that, in R4DS’s reasonable opinion, violates any R4DS policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Slack to any individual or entity for any reason, in R4DS’s sole discretion."
+  },
+  {
+    "objectID": "sponsor.html",
+    "href": "sponsor.html",
+    "title": "Sponsorship",
+    "section": "",
+    "text": "The R4DS Online Learning Community is a fiscally sponsored collective within the Open Collective Foundation.\nWould you like to support the R4DS Online Learning Community? You can make a tax-deductible donation to help us continue our work through the Open Collective."
   }
 ]

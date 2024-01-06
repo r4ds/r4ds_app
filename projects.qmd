@@ -1,7 +1,0 @@
----
-title: "Projects"
----
-
-Check back soon for information about the R4DS Project Club!
-
-We also run the [TidyTuesday Social Data Project](https://tidytues.day)!

@@ -1,0 +1,28 @@
+---
+title: "Get Help"
+---
+
+We have volunteers online ready to help you answer your data questions!
+
+[Join our Slack](https://r4ds.io/join) to ask and answer questions
+(if the join link says it is expired, please [let us know](mailto:rfordatasci@gmail.com)).
+
+## Available help channels:
+
+:::: {.columns}
+::: {.column width="50%"}
+### R help
+-   [R (general questions)](https://rfordatascience.slack.com/archives/C060QC7G7L1)
+-   [Data Import](https://rfordatascience.slack.com/archives/C01V55SFZQW)
+-   [Dataviz, Plotting, Etc](https://rfordatascience.slack.com/archives/C8JRJSW4S)
+:::
+
+::: {.column width="50%"}
+### Other topics
+-   [Python (general questions)](https://rfordatascience.slack.com/archives/C02C8MG620P)
+-   [SQL (general questions)](https://rfordatascience.slack.com/archives/C02H23TA015)
+-   [Statistics](https://rfordatascience.slack.com/archives/C6XL6HUG4)
+:::
+::::
+
+(more topics are available and will be listed here soon)

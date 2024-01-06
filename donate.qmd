@@ -2,40 +2,7 @@
 title: "Donate"
 ---
 
-If we've helped you learn, please consider a [tax-deductible donation](https://opencollective.com/r4ds) to help us continue our work .
+The R4DS Online Learning Community is a fiscally sponsored collective within the [Open Collective Foundation](https://opencollective.foundation/).
 
-## Giving Season 2023
-
-We have a number of projects in the works, and we'd like your help choosing where to focus our efforts in 2024!
-Every dollar donated through the end of 2023 can be used to vote for your favorite project.
-Make your gift recurring to double your vote!
-
-### Projects:
-
-#### [Mentoring Improvements](https://opencollective.com/r4ds/contribute/giving2023-mentoring-improvements-68464)
-
-We provide [free data-question-answering](slack.html) on our Slack team via volunteer mentors.
-
-We would like to make it easier for our mentors to answer questions by providing a streamlined web interface, and by matching new questions with previously answered questions.
-This project will allow us to answer more questions faster.
-
-#### [More-open Book Clubs](https://opencollective.com/r4ds/contribute/giving2023-more-open-book-clubs-68465)
-
-We host book clubs for a wide range of data-related books, including [R for Data Science](https://r4ds.io/r4ds), [Python for Data Analysis](https://r4ds.io/py4da), and [R Packages](https://r4ds.io/rpkgs).
-To join a book club, you must join our Slack team, and follow the associated channel.
-
-We would like to open up our clubs to users who are not on our Slack.
-This project will require software development to integrate our club management with additional login providers (such as Zoom, Google, GitHub, LinkedIn, and/or Mastodon), and to ensure that our meetings do not get spammed.
-
-#### [TidyTuesday Dataset Search](https://opencollective.com/r4ds/contribute/giving2023-tidytuesday-dataset-search-68466)
-
-We host a weekly social data project called [TidyTuesday](https://tidytues.day), where we share a new dataset each week and invite the data science community to explore it.
-We have been posting new datasets every week since April of 2018, and we now have about 600 datasets available for download.
-
-We would like to make it easier to search those datasets.
-To do so, we will refactor the TidyTuesday GitHub repository, extend the [{ttmeta} package](https://github.com/r4ds/ttmeta), and build a Shiny search interface.
-
-### Fine Print
-
--   We may not receive enough funding to complete any of the projects.
--   Your vote will help us prioritize the project list, but other priorities may arise that require our immediate attention.
+Would you like to support the R4DS Online Learning Community? 
+You can make a tax-deductible donation to help us continue our work through the [Open Collective](https://opencollective.com/r4ds).

@@ -1,8 +1,0 @@
----
-title: "Join our Slack"
----
-
-We have volunteers online ready to help you answer your data questions!
-
-[Join our Slack](https://r4ds.io/join) to ask and answer questions.
-If the link says it is expired, please [let us know](mailto:rfordatasci@gmail.com)!

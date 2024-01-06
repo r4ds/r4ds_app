@@ -4,13 +4,13 @@ project:
     - CNAME
 
 website:
-  title: "R4DS Online Learning Community"
+  title: "r4ds.io"
   repo-url: https://github.com/r4ds/r4ds_app
   repo-actions: [edit, issue]
   google-analytics: "G-QQ1ZV766J5"
   cookie-consent: true
   navbar:
-    # background: "#f0eeeb"
+    # background: "#222"
     # logo: images/r4ds-logo-150px.png
     # logo-alt: "R4DS Online Learning Community"
     # title: false
@@ -24,21 +24,17 @@ website:
       - icon: github
         href: https://github.com/r4ds/r4ds_app
     left:
-      - learn.qmd
-      - text: Get Help
-        menu:
-        - slack.qmd
-        - huhu.qmd
-      - projects.qmd
-      - donate.qmd
+      - href: question_answering.qmd
+      - href: bookclubs.qmd
+      - href: donate.qmd
       - text: About Us
         menu:
-        - about.qmd
-        - code_of_conduct.qmd
-        - privacy.qmd
-        - license.qmd
-        - governance.qmd
-        - sponsor.qmd
+        - href: about.qmd
+        - href: our_projects.qmd
+        - href: code_of_conduct.qmd
+        - href: privacy.qmd
+        - href: license.qmd
+        - href: governance.qmd
 
 format:
   html:

@@ -1,9 +1,6 @@
-## Welcome to the R4DS Online Learning Community!
+# Data Science Learning Community
 
-The R4DS Online Learning Community is a community of learners at all skill levels working together to improve our data-science-related skills.
+A diverse, friendly, and inclusive community of learners building our skills in data science.
 
-[Join our Slack community!](https://r4ds.io/join)
+<button type="button" class="btn btn-primary" onclick="window.location.href='https://r4ds.io/join';">Join us on Slack</button>
 
-### Sponsorship
-
-Would you like to support the R4DS Online Learning Community? You can make a tax-deductible donation to help us continue our work through the [Open Collective](https://opencollective.com/r4ds).

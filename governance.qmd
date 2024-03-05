@@ -14,7 +14,7 @@ This governance model is adapted from:
 and is licensed under CC-BY-SA-4.0
 -->
 
-The R4DS Online Learning Community ("R4DS") comprises the [R4DS Slack community](https://r4ds.io/join), and the repositories under the [r4ds GitHub organization](https://github.com/r4ds) and the [rfordatascience Github organization](https://github.com/rfordatascience) (and the packages, websites, and data pipelines that those repositories represent).
+The R4DS Online Learning Community ("R4DS") comprises the [R4DS Slack community](https://r4ds.io/join), and the repositories under the [r4ds GitHub organization](https://github.com/r4ds), the [rfordatascience Github organization](https://github.com/rfordatascience), and the [dslc-io GitHub organization](https://github.com/dslc-io) (and the packages, websites, and data pipelines that those repositories represent).
 It has a large community of __learners__, __mentors__, and __facilitators__, a team of __administrators__, a __Board of Directors__, and an __Executive Director__. 
 This document details how the project is governed and what the various responsibilities 
 are for each role in the community.
@@ -25,17 +25,17 @@ TLDR: The R4DS __Board of Directors__ (led by the __Executive Director__) leads 
 
 The Board of Directors of the R4DS Online Learning Community is:
 
-- [Jon Harmon](https://github.com/jonthegeek)
-- [Tan Ho](https://github.com/tanho63)
-- [Lydia Gibson](https://github.com/lgibson7)
+-   [Jon Harmon](https://github.com/jonthegeek)
+-   [Tan Ho](https://github.com/tanho63)
+-   [Lydia Gibson](https://github.com/lgibson7)
 
 Board of Directors members are collectively responsible for governance of the R4DS Online Learning Community. Governance activities include:
 
-- Ensuring the long term viability of the R4DS;
-- Deciding on organization-wide policies, procedures, and issues;
-- Dealing with issues related to the [code of conduct](code_of_conduct.html);
-- Approving R4DS expenses;
-- Any other decisions that impact the community as a whole.
+-   Ensuring the long term viability of the R4DS;
+-   Deciding on organization-wide policies, procedures, and issues;
+-   Dealing with issues related to the [code of conduct](code_of_conduct.html);
+-   Approving R4DS expenses;
+-   Any other decisions that impact the community as a whole.
 
 An invitation to join the Board of Directors can be extended to anyone who has shown interest and aptitude in furthering the goals of the R4DS Online Learning Community.
 Any existing Board of Directors member can contact the Executive Director to recommend that a member of the Community be invited to the Board of Directors. 
@@ -66,10 +66,10 @@ The Executive Director is bound by the [code of conduct](code_of_conduct.html).
 Administrators help to manage the R4DS Slack and/or GitHub repositories.
 Common administrator activities may include (in addition to those of a learner, mentor, and/or facilitator):
 
-- Approving and merging pull requests;
-- Deleting spam messages;
-- Removing learners who violate the [code of conduct](code_of_conduct.html);
-- Approving or denying Slack app requests.
+-   Approving and merging pull requests;
+-   Deleting spam messages;
+-   Removing learners who violate the [code of conduct](code_of_conduct.html);
+-   Approving or denying Slack app requests.
 
 Currently, all administrators are also members of the Board of Directors, and are added through the same process.
 
@@ -78,12 +78,12 @@ Currently, all administrators are also members of the Board of Directors, and ar
 Facilitators are learners who help organize and run R4DS book clubs.
 Common facilitator activities may include (in addition to those of a learner):
 
-- Introducing new book clubs (and presenting the first chapter);
-- Ensuring that someone is signed up to present each week;
-- Reminding club members about meeting times;
-- Informing administrators of any requested changes in the book club schedule;
-- Helping to maintain the book club slide repository;
-- Informing administrators of any issues that need to be escalated.
+-   Introducing new book clubs (and presenting the first chapter);
+-   Ensuring that someone is signed up to present each week;
+-   Reminding club members about meeting times;
+-   Informing administrators of any requested changes in the book club schedule;
+-   Helping to maintain the book club slide repository;
+-   Informing administrators of any issues that need to be escalated.
 
 Facilitators must have participated in at least one previous book club, and must have lead the discussion at least once.
 Facilitators are *not* expected to be experts in the book nor its subject; they are members of the club just like any other learner.
@@ -93,10 +93,10 @@ Facilitators are *not* expected to be experts in the book nor its subject; they 
 Mentors are learners who answer questions on the R4DS Slack.
 Common mentor activities may include (in addition to those of a learner):
 
-- Answering questions on the R4DS Slack;
-- Helping tag questions on the R4DS Slack with the R4DS emoji vocabulary;
-- Holding semi-official office hours to answer questions in a structured format;
-- Welcoming new users to the R4DS Slack.
+-   Answering questions on the R4DS Slack;
+-   Helping tag questions on the R4DS Slack with the R4DS emoji vocabulary;
+-   Holding semi-official office hours to answer questions in a structured format;
+-   Welcoming new users to the R4DS Slack.
 
 Anyone can become a mentor: there is no expectation of commitment to the project, 
 no required skillset, and no selection process. 
@@ -112,15 +112,16 @@ Learners are encouraged to participate in the life of the project and the commun
 Learner contributions help ensure that the project is satisfying users' needs. 
 Common learner activities include (but are not limited to):
 
-- Posting about TidyTuesday or other R4DS projects on social media;
-- Asking questions on the R4DS Slack;
-- Participating in R4DS book clubs;
-- Providing moral support (a "thank you" goes a long way).
+-   Posting about TidyTuesday or other R4DS projects on social media;
+-   Asking questions on the R4DS Slack;
+-   Participating in R4DS book clubs;
+-   Providing moral support (a "thank you" goes a long way).
 
 Learners who continue to engage with the project and its community will often find themselves becoming more and more involved. 
 Such learners may then go on to become mentors and/or facilitators, as described below.
 
 # Changelog
-2023-09-11: v1.0
-2023-09-29: v1.0.1 - Added Lydia Gibson to Core Team and clarified election and removal of Core Team members.
-2024-01-15: v1.1 - Renamed "Core Team" to "Board of Directors" and "Community Manager" to "Executive Director". Clarified wording of responsibilities.
+-   2023-09-11: v1.0
+-   2023-09-29: v1.0.1 - Added Lydia Gibson to Core Team and clarified election and removal of Core Team members.
+-   2024-01-15: v1.1 - Renamed "Core Team" to "Board of Directors" and "Community Manager" to "Executive Director". Clarified wording of responsibilities.
+-   2024-02-28: v1.2 - Added "dslc-io" GitHub organization.

@@ -6,7 +6,7 @@ This notice describes how the R4DS Online Learning Community (R4DS for short) co
 
 ## What is the R4DS Online Learning Community?
 
-R4DS is a community managed by volunteers. The community is primarily adminstered by Jon Harmon. The community is not yet a legal entity.
+R4DS is a community managed by volunteers.
 
 The R4DS Slack is hosted by Slack Technologies. See [their privacy policy here](https://slack.com/legal).
 
@@ -14,7 +14,7 @@ The R4DS Slack is hosted by Slack Technologies. See [their privacy policy here](
 
 R4DS collects data about you:
 
-* when you browse [rfordatasci.com](https://www.rfordatasci.com/).
+* when you browse [rfordatasci.com](https://www.rfordatasci.com).
 * when you create and use an account on our [Slack team](http://r4ds.io/join).
 * when you post, send private messages, answer a thread, or otherwise participate in the R4DS Slack.
 * when you browse our [YouTube channel](https://www.youtube.com/R4DSOnlineLearningCommunity).
@@ -22,12 +22,12 @@ R4DS collects data about you:
 
 ## What does R4DS collect about me, and why?
 
-**When you browse [rfordatasci.com](https://www.rfordatasci.com/),** we collect Google Analytics data. We use this data to better understand where our users are coming from.
+**When you browse [rfordatasci.com](https://www.rfordatasci.com),** we may collect Google Analytics data. We use this data to better understand where our users are coming from.
 
 **When you create and use an account on our [Slack team](http://r4ds.io/join),** we collect an email address and other optional information. 
 
 * Slack requires this information for account creation. 
-* If we need to talk to you about our [Code of Conduct](../conduct), we may contact you via this email address. 
+* If we need to talk to you about our [Code of Conduct](conduct.html), we may contact you via this email address. 
 * We do not intentionally share this email address with anyone, but Slack may make it available.
 * You can erase your personal information from your account at any time.
 * Slack stores your account data as long as your account remains open.

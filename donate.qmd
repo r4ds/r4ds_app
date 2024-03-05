@@ -2,7 +2,34 @@
 title: "Donate"
 ---
 
-The R4DS Online Learning Community is a fiscally sponsored collective within the [Open Collective Foundation](https://opencollective.foundation/).
+**TL;DR:**
 
-Would you like to support the R4DS Online Learning Community? 
-You can make a tax-deductible donation to help us continue our work through the [Open Collective](https://opencollective.com/r4ds).
+-   **If you have the means to support data science education, [please donate before March 15](https://r4ds.io/donate)!**
+
+Last fall, this Community became a fiscally sponsored collective within the [Open Collective Foundation (OCF)](https://opencollective.foundation/), a 501(c)(3) charitable organization. 
+Up until then, I paid for everything myself – our Zoom accounts, our domain names, experiments with other services like Zapier and IFTTT, even a workshop to learn tips and tricks for managing large, open-source projects. 
+I wanted to see what this Community could become, so I spent what I had to spend.
+
+I've used the tax-deductible donations we've received as a member of OCF to help me pay for web services, and I am extremely grateful to those of you who have been able to donate already. 
+However, the existing donations will not cover our infrastructure forever, and this Community needs more than web services to operate.
+
+I volunteer about 20 hours per week to keep this Community running, and I can't afford to keep up that unpaid labor forever. 
+I would love to offer additional book clubs, to streamline the process for starting a new club, and to improve the materials used by those clubs. 
+I would love to learn more about who uses TidyTuesday datasets and what they do with the data, and to make it easier for them to work with that data. 
+I would love to continue to provide a friendly place for people to help one another with their data science questions. 
+And I would love to offer additional services to help data science learners become data science professionals. 
+We are actively seeking grants and other funding to make all of these things possible. 
+But things have, unexpectedly, grown more urgent.
+
+Last week, the Open Collective Foundation made the shocking announcement that they are dissolving. 
+**We have less than two weeks to collect donations for the foreseeable future.** 
+After March 15, we won't be able to accept donations until we are able to find a new sponsoring charity. 
+It will be much easier to find a stable sponsor if we demonstrate an ability to support ourselves.
+
+By design, most of our active members are just starting out on their data science journeys, and cannot yet afford to pay; that's a big part of why we exist. 
+We need you to pay it forward. 
+**If you have the means to support data science education, [please help us survive this transition by donating today](https://r4ds.io/donate).**
+
+Thank you,
+
+Jon Harmon (jonthegeek)

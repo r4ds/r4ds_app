@@ -2,12 +2,12 @@
 title: "Our Story"
 ---
 
-The R4DS Online Learning Community is a community of R learners at all skill levels working together to improve our skills.
+The **R4DS Online Learning Community** is a diverse, friendly, and inclusive community of data science learners and practitioners.
 
 We launched in August 2017 as a supportive and responsive online space for learners and mentors to gather and work through [R for Data Science](https://r4ds.hadley.nz/) by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund[^story-1].
 
 [^story-1]: They actually read the [first edition](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham, but we recommend you stick with the more up-to-date 2e!
 
-The group has grown from that initial club into a community of over 10,000 learners.
+The group has grown from that initial club into a community of over 17,000 learners.
 
-Stay tuned for links to talks we have given about our various projects!
+Learn more about us on April 18-19 at the [ShinyConf2024 Shiny for Good Track](https://www.shinyconf.com/).

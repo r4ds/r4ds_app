@@ -1,6 +1,29 @@
-# Data Science Learning Community
+# A diverse, friendly, and inclusive community of data science learners and practitioners.
 
-A diverse, friendly, and inclusive community of learners building our skills in data science.
+The **R4DS Online Learning Community** develops tools and resources to foster the data science community to which we want to belong.
+Whether we are seeking our first job as a data professional or continuing a journey years in the making, we must all constantly learn new data programming skills to keep up with a rapidly changing world. 
+Bootcamps and courses are often expensive, and it can be difficult to maintain the motivation necessary to learn skills on our own.
 
 <button type="button" class="btn btn-primary" onclick="window.location.href='https://r4ds.io/join';">Join us on Slack</button>
 
+## Learning together
+
+We organize book clubs to help our community members achieve their learning goals. 
+Our members read dozens of books in small, organized cohorts that meet every week. 
+Learn more about our [book clubs](bookclubs.html), and join us to read a book together!
+
+## Helping one another
+
+Our community members also support each other by asking and answering programming questions in our [Slack help channels](question_answering.html).
+
+## Learning out loud
+
+We host a weekly social data project called [TidyTuesday](https://tidytues.day), where we share a new dataset each week and invite the data science community to explore it.
+We have been posting new datasets every week since April of 2018, and we now have about 600 datasets available for download.
+
+## Making connections
+
+We look forward to learning more about you on our active, friendly Slack community!
+
+<button type="button" class="btn btn-primary" onclick="window.location.href='https://r4ds.io/join';">Join us on Slack</button>
+<br>

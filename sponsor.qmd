@@ -6,30 +6,31 @@ title: "Sponsorship"
 
 -   **If you have the means to support data science education, [please donate before March 15](https://r4ds.io/donate)!**
 
-Last fall, this Community became a fiscally sponsored collective within the [Open Collective Foundation (OCF)](https://opencollective.foundation/), a 501(c)(3) charitable organization. 
-Up until then, I paid for everything myself – our Zoom accounts, our domain names, experiments with other services like Zapier and IFTTT, even a workshop to learn tips and tricks for managing large, open-source projects. 
-I wanted to see what this Community could become, so I spent what I had to spend.
+Last September, this Community became a fiscally sponsored collective within the [Open Collective Foundation (OCF)](https://opencollective.foundation/), a 501(c)(3) charitable organization. 
+Last week, the Open Collective Foundation made the shocking announcement that [they are dissolving](https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/), which means **we have less than two weeks to [collect donations](https://r4ds.io/donate) for the foreseeable future.** 
+After March 15, we won't be able to accept donations until we are able to find a new sponsoring charity.
 
-I've used the tax-deductible donations we've received as a member of OCF to help me pay for web services, and I am extremely grateful to those of you who have been able to donate already. 
-However, the existing donations will not cover our infrastructure forever, and this Community needs more than web services to operate.
+Before we joined OCF, I paid for everything myself – our Zoom accounts, our domain names, experiments with other services like Zapier and IFTTT, even a posit::conf(2023) workshop to learn tips and tricks for managing large, open-source projects. 
+I wanted to see what this Community could become, so I made the necessary investments.
 
-I volunteer about 20 hours per week to keep this Community running, and I can't afford to keep up that unpaid labor forever. 
-I would love to offer additional book clubs, to streamline the process for starting a new club, and to improve the materials used by those clubs. 
-I would love to learn more about who uses TidyTuesday datasets and what they do with the data, and to make it easier for them to work with that data. 
-I would love to continue to provide a friendly place for people to help one another with their data science questions. 
-And I would love to offer additional services to help data science learners become data science professionals. 
-We are actively seeking grants and other funding to make all of these things possible. 
-But things have, unexpectedly, grown more urgent.
+I am extremely grateful to those of you who have been able to donate already. 
+With the tax-deductible donations we've received as a member of OCF, I’ve managed to pay for web services, but the existing donations will not cover our infrastructure forever. 
+Moreover, this Community needs more than web services to operate. 
+I volunteer about 20 hours per week to keep this Community running, but that unpaid labor is not sustainable, especially for this Community to continue to grow and evolve.
 
-Last week, the Open Collective Foundation made the shocking announcement that they are dissolving. 
-**We have less than two weeks to collect donations for the foreseeable future.** 
-After March 15, we won't be able to accept donations until we are able to find a new sponsoring charity. 
-It will be much easier to find a stable sponsor if we demonstrate an ability to support ourselves.
+We have plans to keep evolving:
 
-By design, most of our active members are just starting out on their data science journeys, and cannot yet afford to pay; that's a big part of why we exist. 
-We need you to pay it forward. 
-**If you have the means to support data science education, [please help us survive this transition by donating today](https://r4ds.io/donate).**
+-   We would love to offer additional [book clubs](bookclubs.html), to streamline the process for starting a new club, and to improve the materials used by those clubs. 
+-   We would love to learn more about who uses [TidyTuesday](https://tidytues.day/) datasets and what they do with the data, and to make it easier for them to work with that data. 
+-   We would love to continue to provide a friendly place for people to [help one another with their data science questions](question_answering.html), and to expand to additional data-related topics and languages.
+-   And we would love to offer mentorship and career services to help data science learners become data science professionals.
 
-Thank you,
+By design, most of our active members are just starting out on their data science journeys. 
+They cannot afford an expensive data science education, and they do not have the means to make a donation. 
+That's a big part of why we exist. 
 
+[As Jeff Leek noted in his rstudio::conf(2022) keynote](https://www.youtube.com/watch?v=Vf301YCxP1Q), "Mentorship is a debt you don't pay off, you pay it forward." 
+For those of you who are further along in your data science careers, I ask that you [help us continue to provide free data science education by donating today](https://r4ds.io/donate). 
+
+Thank you,<br>
 Jon Harmon (jonthegeek)

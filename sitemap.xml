@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rfordatasci.com/license.html</loc>
-    <lastmod>2024-03-06T12:19:12.774Z</lastmod>
-  </url>
-  <url>
     <loc>https://rfordatasci.com/sponsor.html</loc>
-    <lastmod>2024-03-06T12:19:12.774Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rfordatasci.com/donate.html</loc>
-    <lastmod>2024-03-06T12:19:12.774Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rfordatasci.com/privacy.html</loc>
-    <lastmod>2024-03-06T12:19:12.774Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rfordatasci.com/about.html</loc>
-    <lastmod>2024-03-06T12:19:12.774Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rfordatasci.com/question_answering.html</loc>
-    <lastmod>2024-03-06T12:19:12.774Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rfordatasci.com/huhu.html</loc>
-    <lastmod>2024-03-06T12:19:12.774Z</lastmod>
+    <lastmod>2024-03-15T11:23:14.886Z</lastmod>
   </url>
   <url>
     <loc>https://rfordatasci.com/index.html</loc>
-    <lastmod>2024-03-06T12:19:12.774Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rfordatasci.com/code_of_conduct.html</loc>
-    <lastmod>2024-03-06T12:19:12.774Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rfordatasci.com/governance.html</loc>
-    <lastmod>2024-03-06T12:19:12.774Z</lastmod>
+    <lastmod>2024-03-15T11:23:14.886Z</lastmod>
   </url>
   <url>
     <loc>https://rfordatasci.com/bookclubs.html</loc>
-    <lastmod>2024-03-06T12:19:12.774Z</lastmod>
+    <lastmod>2024-03-15T11:23:14.886Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rfordatasci.com/code_of_conduct.html</loc>
+    <lastmod>2024-03-15T11:23:14.886Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rfordatasci.com/donate.html</loc>
+    <lastmod>2024-03-15T11:23:14.886Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rfordatasci.com/question_answering.html</loc>
+    <lastmod>2024-03-15T11:23:14.886Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rfordatasci.com/governance.html</loc>
+    <lastmod>2024-03-15T11:23:14.886Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rfordatasci.com/huhu.html</loc>
+    <lastmod>2024-03-15T11:23:14.886Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rfordatasci.com/license.html</loc>
+    <lastmod>2024-03-15T11:23:14.886Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rfordatasci.com/about.html</loc>
+    <lastmod>2024-03-15T11:23:14.886Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rfordatasci.com/privacy.html</loc>
+    <lastmod>2024-03-15T11:23:14.886Z</lastmod>
   </url>
 </urlset>

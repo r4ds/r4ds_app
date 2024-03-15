@@ -20,7 +20,7 @@ website:
     left:
       - href: bookclubs.qmd
       - href: question_answering.qmd
-      - href: donate.qmd
+      # - href: donate.qmd
       - text: About Us
         menu:
         - href: about.qmd

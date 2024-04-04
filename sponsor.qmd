@@ -1,7 +1,0 @@
----
-title: "Sponsorship"
----
-
-*We are unable to accept donations until we find a new fiscal host.*
-*Thank you for your interest in helping!*
-*If you have information about a fiscal host that you believe we should look into, please [contact us](mailto:rfordatasci@gmail.com).*
